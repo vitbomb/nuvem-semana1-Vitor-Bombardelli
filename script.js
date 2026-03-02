@@ -4,11 +4,6 @@ const btnPost = document.getElementById("btnPost");
 function show(obj) {
 out.textContent = typeof obj === "string" ? obj : JSON.stringify(obj, null, 2);
 }
-
-Tutorial Semana 2 — HTTP e Fetch (GitHub Pages)
-
-Página 2
-
 async function httpGetWeather() {
 show("Buscando clima (GET)...");
 try {
