@@ -13,3 +13,4 @@ consumo de API com fetch.
 ## Dificuldades
 -Houve um erro no console após as modificações no código.
 "Uncaught SyntaxError: Unexpected number"
+- O erro foi causado devido a ter um texto e número perdido no código, após a identificação do texto e eliminação do mesmo, a API funcionou.
