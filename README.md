@@ -7,3 +7,9 @@
 - Ativei GitHub Pages (main / root)
 ## Dificuldades
 - Não houveram dificuldades, pois a atividade estava muito bem explicada no PDF.
+# Semana 2 - HTTP e Fetch (sem Node)
+-Objetivo  de implementar no site um
+consumo de API com fetch.
+## Dificuldades
+-Houve um erro no console após as modificações no código.
+"Uncaught SyntaxError: Unexpected number"
